@@ -1,0 +1,5 @@
+Full font name: SV Basic Manual
+Unique font identifier: SVBasicManual
+PostScript name: sv-basic-manual
+
+Latin text, monospaced, book weight treated as regular.
